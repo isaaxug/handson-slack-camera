@@ -267,7 +267,7 @@ OpenCVでは、一般的にRGBではなくBGRで色の指定をおこないま�
 $ sudo apt update && sudo apt upgrade
 $ sudo apt install python3-pip
 
-$ pip3 install picamera numpy opencv-python flask
+$ pip3 install picamera numpy opencv-python flask requests
 
 $ sudo apt install libatlas-base-dev
 $ sudo apt install libwebp6 libtiff5-dev libjasper-dev
