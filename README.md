@@ -121,7 +121,6 @@ $ ssh pi@<Raspberry PiのIPアドレス>
 はじめに、下記のモジュールを追加します。
 
 ```python
-from datetime import datetime
 import os
 import sys
 import requests
